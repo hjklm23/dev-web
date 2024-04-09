@@ -1,0 +1,101 @@
+
+.white-padding {
+    padding: 10px; 
+    background-color:white ;
+}
+
+.gray-padding {
+    padding: 40px; 
+    background-color:gray ; 
+}
+.yellow-padding {
+    padding: ; 
+    background-color: rgb(246, 246, 153);  
+}
+
+body {
+    font-family: ;
+    margin: ;
+    padding: ;
+     border: ;
+    background-color: ; 
+}
+
+header {
+    padding: 25px;
+    text-align: center ;
+}
+
+main {
+    padding:15px ;
+    font-family: ;
+    font-weight: ;
+    font-size: ;
+}
+
+.separator {
+    border: 2px solid red; 
+    width:98% ;
+    margin: 5PX; 
+}
+
+.section {
+    padding: ; 
+}
+
+footer {
+    background-color:white ;
+    border-top: ; 
+    color: ;
+    text-align: right;
+    padding: 15px;
+    bottom: ;
+    width: ;
+    border-left: 25px solid #c7ccbd;
+    border-right:25px solid #c7ccbd;
+}
+
+.footer-content {
+    max-width: ; 
+    color ;
+    background-color:;
+}
+
+footer a {
+    text-decoration:underline ; 
+    color:grey ; 
+}
+
+.centered-image {
+    
+    max-width: 95%; 
+    
+}
+
+.centered-square {
+    text-align: center;
+    padding: 0px;
+    background-color: white; 
+    border: 2px solid black; 
+    margin: auto ;
+    width:30% ; 
+    
+}
+
+.gray-underline {
+    color:gray ; 
+    text-decoration: underline; 
+}
+
+.literature-poem {
+    margin: ;
+    padding: ; 
+    width: ;
+    box-sizing: ; 
+}
+
+.literature-poem p {
+    margin: 20px;
+    line-height: 1px;
+}
+
